@@ -1,0 +1,274 @@
+[
+  {
+    "store": "myntra",
+    "store_product_id": "MYN-1001",
+    "title": "Urbanthread Men Slim Fit Checked Casual Shirt",
+    "brand": "Urbanthread",
+    "category_hint": "Men > Topwear > Shirts",
+    "color": "Blue",
+    "price": "₹699",
+    "mrp": "₹1,799",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.2,
+    "rating_count": 1830,
+    "url": "https://example.com/myntra/MYN-1001"
+  },
+  {
+    "store": "ajio",
+    "store_product_id": "AJ-2001",
+    "title": "Urbanthread Men Regular Fit Polo T-Shirt",
+    "brand": "Urbanthread",
+    "category_hint": "Men > T-Shirts",
+    "color": "Navy",
+    "price": "449",
+    "mrp": "999",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.0,
+    "rating_count": 412,
+    "url": "https://example.com/ajio/AJ-2001"
+  },
+  {
+    "store": "amazon",
+    "store_product_id": "AMZ-3001",
+    "title": "Kalpa Women's Cotton Printed Straight Kurta",
+    "brand": "Kalpa",
+    "color": "Maroon",
+    "price": 599,
+    "mrp": 1499,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.1,
+    "rating_count": 2650,
+    "url": "https://example.com/amazon/AMZ-3001"
+  },
+  {
+    "store": "myntra",
+    "store_product_id": "MYN-1002",
+    "title": "Kalpa Women Floral Print A-Line Shirt Dress",
+    "brand": "Kalpa",
+    "category_hint": "Women > Dresses",
+    "color": "Green",
+    "price": "₹899",
+    "mrp": "₹2,299",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "rating": 4.3,
+    "rating_count": 980,
+    "url": "https://example.com/myntra/MYN-1002"
+  },
+  {
+    "store": "flipkart",
+    "store_product_id": "FK-4001",
+    "title": "Denimcraft Men Slim Fit Mid Rise Blue Jeans",
+    "brand": "Denimcraft",
+    "price": "799",
+    "mrp": "2199",
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "rating": 3.9,
+    "rating_count": 7420,
+    "url": "https://example.com/flipkart/FK-4001"
+  },
+  {
+    "store": "ajio",
+    "store_product_id": "AJ-2002",
+    "title": "Denimcraft Women High-Rise Wide Leg Trousers",
+    "brand": "Denimcraft",
+    "color": "Beige",
+    "price": "1099",
+    "mrp": "2499",
+    "sizes": [
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "rating": 4.2,
+    "rating_count": 301,
+    "url": "https://example.com/ajio/AJ-2002"
+  },
+  {
+    "store": "amazon",
+    "store_product_id": "AMZ-3002",
+    "title": "StrideX Unisex Running Shoes",
+    "brand": "StrideX",
+    "color": "Grey",
+    "price": 1499,
+    "mrp": 3999,
+    "sizes": [
+      "UK 6",
+      "UK 7",
+      "UK 8",
+      "UK 9",
+      "UK 10"
+    ],
+    "rating": 4.0,
+    "rating_count": 5120,
+    "url": "https://example.com/amazon/AMZ-3002"
+  },
+  {
+    "store": "flipkart",
+    "store_product_id": "FK-4002",
+    "title": "StrideX Men White Casual Sneakers",
+    "brand": "StrideX",
+    "price": "1,299",
+    "mrp": "2,999",
+    "sizes": [
+      "UK 7",
+      "UK 8",
+      "UK 9"
+    ],
+    "rating": 4.1,
+    "rating_count": 2210,
+    "url": "https://example.com/flipkart/FK-4002"
+  },
+  {
+    "store": "myntra",
+    "store_product_id": "MYN-1003",
+    "title": "Kalpa Women Banarasi Silk Saree with Blouse Piece",
+    "brand": "Kalpa",
+    "category_hint": "Women > Ethnic Wear > Sarees",
+    "color": "Red",
+    "price": "₹2,499",
+    "mrp": "₹6,999",
+    "rating": 4.4,
+    "rating_count": 640,
+    "url": "https://example.com/myntra/MYN-1003"
+  },
+  {
+    "store": "amazon",
+    "store_product_id": "AMZ-3003",
+    "title": "Chrono & Co Men Analog Black Dial Watch",
+    "brand": "Chrono & Co",
+    "price": 1199,
+    "mrp": 2995,
+    "rating": 4.0,
+    "rating_count": 860,
+    "url": "https://example.com/amazon/AMZ-3003"
+  },
+  {
+    "store": "ajio",
+    "store_product_id": "AJ-2003",
+    "title": "Urbanthread Boys Graphic Print T-Shirt",
+    "brand": "Urbanthread",
+    "color": "Yellow",
+    "price": "299",
+    "mrp": "699",
+    "sizes": [
+      "6-7Y",
+      "8-9Y"
+    ],
+    "in_stock": false,
+    "rating": 4.2,
+    "rating_count": 95,
+    "url": "https://example.com/ajio/AJ-2003"
+  },
+  {
+    "store": "amazon",
+    "store_product_id": "AMZ-5001",
+    "title": "Nimbus N5 5G (8GB RAM, 128GB) - Midnight Black",
+    "brand": "Nimbus",
+    "model_number": "N5-8-128",
+    "category_hint": "Mobiles & Accessories > Smartphones",
+    "price": 17999,
+    "mrp": 24999,
+    "rating": 4.3,
+    "rating_count": 5210,
+    "url": "https://example.com/amazon/AMZ-5001"
+  },
+  {
+    "store": "flipkart",
+    "store_product_id": "FK-5001",
+    "title": "Nimbus N5 5G (Midnight Black, 128 GB) (8 GB RAM)",
+    "brand": "Nimbus",
+    "model_number": "N5-8-128",
+    "category_hint": "Mobiles > Smartphones",
+    "price": "17,499",
+    "mrp": "24,999",
+    "rating": 4.4,
+    "rating_count": 12890,
+    "url": "https://example.com/flipkart/FK-5001"
+  },
+  {
+    "store": "amazon",
+    "store_product_id": "AMZ-5002",
+    "title": "Pulsewave Air TWS Earbuds with 40H Playback",
+    "brand": "Pulsewave",
+    "color": "Black",
+    "price": 999,
+    "mrp": 3499,
+    "rating": 3.8,
+    "rating_count": 15400,
+    "url": "https://example.com/amazon/AMZ-5002"
+  },
+  {
+    "store": "flipkart",
+    "store_product_id": "FK-5002",
+    "title": "Vistara 43 inch 4K Ultra HD Smart LED TV",
+    "brand": "Vistara",
+    "model_number": "VS43UHD",
+    "price": "22,999",
+    "mrp": "39,990",
+    "rating": 4.2,
+    "rating_count": 3300,
+    "url": "https://example.com/flipkart/FK-5002"
+  },
+  {
+    "store": "amazon",
+    "store_product_id": "AMZ-6001",
+    "title": "Coolbreeze 1.5 Ton 3 Star Inverter Split AC",
+    "brand": "Coolbreeze",
+    "model_number": "CB15I3",
+    "price": 32990,
+    "mrp": 55990,
+    "rating": 4.1,
+    "rating_count": 2100,
+    "url": "https://example.com/amazon/AMZ-6001"
+  },
+  {
+    "store": "flipkart",
+    "store_product_id": "FK-6001",
+    "title": "Coolbreeze 1.5 Ton 3 Star Inverter Split AC (Copper, CB15I3)",
+    "brand": "Coolbreeze",
+    "model_number": "CB15I3",
+    "price": "31,490",
+    "mrp": "55,990",
+    "rating": 4.2,
+    "rating_count": 4750,
+    "url": "https://example.com/flipkart/FK-6001"
+  },
+  {
+    "store": "amazon",
+    "store_product_id": "AMZ-6002",
+    "title": "Hometek 7 kg Fully Automatic Front Load Washing Machine",
+    "brand": "Hometek",
+    "color": "Silver",
+    "price": 24990,
+    "mrp": 36990,
+    "rating": 4.3,
+    "rating_count": 1890,
+    "url": "https://example.com/amazon/AMZ-6002"
+  }
+]
